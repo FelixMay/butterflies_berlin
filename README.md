@@ -7,7 +7,7 @@
 This repository contains the code and data for the analysis reported in the
 manuscript:
 
-**Butterfly citizen science monitoring -- Two different sampling methods detecting consistent biodiversity changes among urban green areas types **
+**Butterfly citizen science monitoring -- Two different sampling methods detecting consistent biodiversity changes among urban green areas types**
 
 ## Citation
 
