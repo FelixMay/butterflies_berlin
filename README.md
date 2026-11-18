@@ -7,14 +7,14 @@
 This repository contains the code and data for the analysis reported in the
 manuscript:
 
-**Butterfly citizen science monitoring -- Two different sampling methods detecting consistent biodiversity changes among urban green areas types**
+**Butterfly citizen science monitoring - Two different sampling methods detecting consistent biodiversity changes among urban green areas types**
 
 ## Citation
 
 If you reuse the analysis or the dataset code, please cite the associated research paper:
 
 Rongstock, R., Lovette, V.,Klauck, E., Rolff, J. 1, Bonn, A., May, F. (2026). 
-Butterfly citizen science monitoring -- Two different sampling methods detecting consistent biodiversity changes among urban green areas types.
+Butterfly citizen science monitoring - Two different sampling methods detecting consistent biodiversity changes among urban green areas types.
 
 ## Licenses
 
